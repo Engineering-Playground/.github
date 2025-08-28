@@ -1,2 +1,2 @@
 # .github
-organization confi
+organization config
