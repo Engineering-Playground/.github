@@ -1,4 +1,4 @@
-<img src="../assets/wallpaper.png">
+<img src="./assets/wallpaper.png">
 <p align="center"><h1 align="center">Domirandos</h1></p>
 
 <p align="center">Project Templates with very basic features for beginners and some Chemical&Material Engineering notes</p>
