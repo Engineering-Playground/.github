@@ -1,2 +1,1 @@
-# .github
-organization config
+<img src="../assets/wallpaper.png">
