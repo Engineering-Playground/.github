@@ -1,5 +1,5 @@
 <img src="./assets/wallpaper.png">
-<p align="center">Project Templates with very basic features for beginners and some Chemical&Material Engineering notes</p>
+<p>Project Templates with very basic features for beginners and some Chemical&Material Engineering notes</p>
 
 ## License &copy;Domirando
 
